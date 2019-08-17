@@ -1,13 +1,14 @@
 
-About
-Dataset
+# About
+## Dataset
 
 Melbourne is currently experiencing a housing bubble (some experts say it may burst soon). Maybe someone can find a trend or give a prediction? Which suburbs are the best to buy in? Which ones are value for money? Where's the expensive side of town? And more importantly where should I buy a 2 bedroom unit? Content & Acknowledgements
 
 This data was scraped from publicly available results posted every week from Domain.com.au
 
 ....Now with extra data including including property size, land size and council area, you may need to change your code! Some Key Details
-Attributes
+
+## Attributes
 
 Suburb: Suburb
 
